@@ -1,4 +1,4 @@
-# Portfolio Website (updated)
+# Portfolio Website
 ## Technologies
 - **React**: Component-based UI library
 - **Vite**: Quick and lean development build tool
