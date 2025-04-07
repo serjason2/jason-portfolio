@@ -5,6 +5,8 @@ New and modern updated creation of my portfolio! Sections that are included are 
 Best,<br>
 Jason
 
+**Link to [Portfolio](https://serjason2.github.io/jason-portfolio)** 
+
 ## Technologies
 - **React**: Component-based UI library
 - **Vite**: Quick and lean development build tool
