@@ -93,7 +93,7 @@ export const About = () => {
               <h3 className="text-xl font-bold mb-4"> 💼 Work Experience </h3>
               <div className="space-y-4 text-gray-300">
                 <div>
-                  <h4 className="font-semibold">Cyber Security Engineer Intern @ Target Corporation (Aug 2024 - Jan 2025)</h4>
+                  <h4 className="font-semibold">Cyber Security Engineer Intern @ Target Corporation (Aug 2024 - May 2025)</h4>
                   <p></p>
                 </div>
                 <div>
