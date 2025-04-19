@@ -12,3 +12,7 @@ Jason
 - **Vite**: Quick and lean development build tool
 - **TailwindCSS**: Utility-first CSS framework
 - **JavaScript (ES6+)**: Modern JavaScript features and best practices
+
+## To Update to GitHub Pages
+- npm install gh-pages --save-dev
+- npm run deploy
