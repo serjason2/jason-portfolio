@@ -92,22 +92,32 @@ export const About = () => {
             <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
               <h3 className="text-xl font-bold mb-4"> 💼 Work Experience </h3>
               <div className="space-y-4 text-gray-300">
+
+                <div>
+                  <h4 className="font-semibold">Grid Software Intern @ Siemens (May 2025 - Present)</h4>
+                  <p></p>
+                </div>
+
                 <div>
                   <h4 className="font-semibold">Cyber Security Engineer Intern @ Target Corporation (Aug 2024 - May 2025)</h4>
                   <p></p>
                 </div>
+
                 <div>
                   <h4 className="font-semibold">Cyber Security Analyst Intern @ CHS Inc. (Aug 2023 - Aug 2024)</h4>
                   <p></p>
                 </div>
+
                 <div>
                   <h4 className="font-semibold">Software Engineer Intern @ Optum (Jun 2023 - Aug 2023)</h4>
                   <p></p>
                 </div>
+
                 <div>
                   <h4 className="font-semibold">Information Technology Intern @ Cargill (Aug 2021 - Aug 2022)</h4>
                   <p></p>
                 </div>
+
               </div>
             </div>
           </div>
