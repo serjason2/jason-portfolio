@@ -4,17 +4,18 @@ export const About = () => {
   const technicalSkillsOther = [
     "Python",
     "Java",
+    "C/Assembly",
     "SQL",
     "React",
-    "PowerShell",
-    "Linux",
+    "PowerShell & Linux",
     "Thai & Lao",
     "Data Loss Prevention (DLP)",
     "Threat Response Auto Pull (TRAP)",
     "Proofpoint",
     "Email Protection",
     "CrowdStrike",
-    "Splunk"
+    "Splunk Enterprise Security",
+    "Virtualization"
   ];
 
   const Certifications = [
