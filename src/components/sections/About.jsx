@@ -94,7 +94,7 @@ export const About = () => {
               <div className="space-y-4 text-gray-300">
 
                 <div>
-                  <h4 className="font-semibold">Grid Software Intern @ Siemens (May 2025 - Present)</h4>
+                  <h4 className="font-semibold">System Engineer Intern @ Siemens (May 2025 - Aug 2025)</h4>
                   <p></p>
                 </div>
 
