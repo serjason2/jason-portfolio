@@ -14,5 +14,8 @@ Jason
 - **JavaScript (ES6+)**: Modern JavaScript features and best practices
 
 ## To Update to GitHub Pages
+- Make sure Node.js is installed according to your OS
+- Make sure Git is installed according to your OS
+
 - npm install gh-pages --save-dev
 - npm run deploy
